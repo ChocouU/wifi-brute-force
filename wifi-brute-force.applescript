@@ -1,8 +1,8 @@
 # Change the variables
-set BSSID to "NetworkBSSID"
-set startString to "pwdStartString"
-set computerUsername to "username"
-set computerPassword to "password"
+set BSSID to "1"
+set startString to "1"
+set computerUsername to "Blurry"
+set computerPassword to "L3nzV4pHS2V68p7A"
 
 # Enables Accessibility
 do shell script "sudo touch /private/var/db/.AccessibilityAPIEnabled" user name computerUsername password computerPassword with administrator privileges
